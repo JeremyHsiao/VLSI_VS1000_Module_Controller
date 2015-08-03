@@ -1,0 +1,10 @@
+D:\Jeremy\Working\TestVS10000VB\MyVS1000\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Jeremy\Working\TestVS10000VB\MyVS1000\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Jeremy\Working\TestVS10000VB\MyVS1000\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Jeremy\Working\TestVS10000VB\MyVS1000\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Jeremy\Working\TestVS10000VB\MyVS1000\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Jeremy\Working\TestVS10000VB\MyVS1000\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Jeremy\Working\TestVS10000VB\MyVS1000\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Jeremy\Working\TestVS10000VB\MyVS1000\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Jeremy\Working\TestVS10000VB\MyVS1000\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Jeremy\Working\TestVS10000VB\MyVS1000\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
